@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>💙DAKSH SHARMA'S PERSONAL SITE</title>
+</head>
+
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td><img src=e.png alt="DAKSH SHARMA PROFILE PHOTO"></td>
+      <td>  <h1>DAKSH SHARMA</h1>
+        <p><em><li>I AM A STUDENT AT<strong> <a href="https://vvdav.org/">VVDAV PUBLIC SCHOOL</a></strong>. WHICH IS SITUATED IN VIKASPURI,NEW DELHI.</li></em></p>
+        <p><em><li>I AM LEARNING WEB DEVLOPMENT FROM <a href="https://www.udemy.com/"><strong>UDEMY</strong></a>.</li></em></p>
+        </li></td>
+    </tr>
+  </table>
+  <hr>
+  <h3><li>MY SELF</li></h3>
+  <ul>
+    <li>I AM 12 YEARS OLD </li>
+    <li>I LOVE TO HAVE ICE CREAM</li>
+  </ul>
+  <h3><li>GAMES I PLAY</li></h3>
+<ul>
+  <table>
+    <thead>
+      <tr>
+        <th>GAMES</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><li><a href="https://en.wikipedia.org/wiki/Football">FOOTBALL</a></li></td>
+      </tr>
+      <td><li><a href="https://en.wikipedia.org/wiki/Cricket">CRICKET</a></li></td>
+
+      <tr>
+        <td><li><a href="https://en.wikipedia.org/wiki/Badminton">BADMINTON</a></li></td>
+      </tr>
+    </tbody>
+
+  </table>
+</ul>
+<h3><li>SKILLS</li></h3>
+<table cellspacing="10">
+    <tr>
+      <td>COOKING</td>
+      <td>⭐⭐</td>
+      </TR>
+      <tr>
+        <td>PHOTOGRAPHY</td>
+        <td>⭐⭐</td>
+        </TR>
+        <tr>
+          <td>CYCLING</td>
+          <td>⭐⭐⭐⭐⭐</td>
+          </TR>
+</table>
+<hr>
+  <h3><a href="HOBBIES.HTML"><li>MY HOBBIES</li></a></h3>
+  <h3><a href="CONTACT.HTML"><li>CONTACT DETAILS</li></a></h3>
+</body>
