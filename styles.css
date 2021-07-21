@@ -1,0 +1,70 @@
+/**********tag selector***********/
+body{
+background-image: url(black.jpg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
+
+p{
+  color: white;
+}
+
+
+hr {
+  border-style: dotted none none;
+  border-color: whitesmoke;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+color: whitesmoke;
+}
+
+h3 {
+  color: whitesmoke;
+}
+
+a:link{
+
+color:white;
+ }
+
+a:visited {
+color: white;
+}
+
+a:hover {
+  color: white;
+}
+
+a:active {
+  color: white;
+}
+
+img:hover{
+  background-color: whitesmoke;
+}
+
+img {
+  border-radius: 50%;
+  align-items:center;
+
+}
+
+table{
+  color: white;
+
+}
+
+ul{
+  color: white;
+}
+
+.daksh{
+  text-align: center;
+}
+
+.center{
+  align-content: center;
+}
