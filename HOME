@@ -8,7 +8,6 @@
   <link rel="icon" href="star_2b50.ico"type="image/x-icon">
 <style media="screen">
 body{
-background-image: url(black.jpg);
 background-repeat: no-repeat;
 background-size: 100% 100%;
 }
